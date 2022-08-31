@@ -1,0 +1,10 @@
+.Container{
+  max-width: 1080px;
+  margin: 20px auto;
+}
+
+.Nav{
+  position: fixed;
+  margin:0px;
+  
+}
