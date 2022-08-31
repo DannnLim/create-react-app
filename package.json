@@ -56,5 +56,11 @@
     "*.{js,json,yml,yaml,css,scss,ts,tsx,md}": [
       "prettier --write"
     ]
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "react-accessible-accordion": "^5.0.0",
+    "react-bootstrap": "^2.5.0",
+    "react-router-dom": "^6.3.0"
   }
 }
